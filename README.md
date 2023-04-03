@@ -1,9 +1,9 @@
 # Chemistic By Icarus 2.0
 
-An Augmented Reality application, made using unity and vuforia engine. It allows you to view AR models and interact with them based on which page is being viewed.
 Unity 2021.3.16f was used to build this project and is recommended for running this project on a windows pc.
 Please install Unity 2021.3.16f or a similar version to run the project.
 https://unity.com/releases/editor/archive#download-archive-2021
+
 The project can be opened using unity hub and to run the project, play button at top center of the unity editor
 needs to be pressed. If app does not appear to run on a virtual phone on unity editor, then change to game
 tab and select simulator and choose an appropriate mobile device such as Samsung Galaxy s10e.
@@ -12,6 +12,7 @@ APK file is also provided which can be used to install the app directly onto an 
 Transfer the APK file to an android phone with version above Android 9.0 and with a good camera.
 To install the app after transferring the APK file to your android phone follow the instructions in
 the instruction manual to install the application.
+
 
 Images provided can be used to test out the AR functionalities as AR image targets are required to run the 
 AR module. Please lay the images flat on the ground as the simulations have physics and will act with gravity.
