@@ -16,7 +16,7 @@ the instruction manual to install the application.
 Images provided can be used to test out the AR functionalities as AR image targets are required to run the 
 AR module. Please lay the images flat on the ground as the simulations have physics and will act with gravity.
 
-We are sorry to inform that we were unable to upload our project via github due to large file limitations as attached bellow:
+We are sorry to inform that we were unable to upload our project via github due to large file limitations as attached below:
 
 ![image](https://user-images.githubusercontent.com/122973862/229610936-b9a9c7ce-9027-4f0a-af17-a05aed544f75.png)
 
