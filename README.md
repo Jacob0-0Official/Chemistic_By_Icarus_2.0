@@ -1,4 +1,4 @@
-# Chemistic_By_Icarus_2.0
+# Chemistic By Icarus 2.0
 
 An Augmeneted Reality application, made using unity and vuforia engine. It allows you to view AR models and interact with them based on which page is being viewed.
 Unity 2021.3.16f was used to build this project and is recommended for running this project on a windows pc.
